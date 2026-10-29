@@ -1,0 +1,854 @@
+{
+    "users": {
+        "admin": {
+            "password": "adminpassword",
+            "role": "admin"
+        },
+        "student1": {
+            "password": "password123",
+            "role": "student"
+        }
+    },
+    "questions": [
+        {
+            "id": 1,
+            "category": "Python",
+            "question": "Which of the following is used to define a block of code in Python?",
+            "options": [
+                "Indentation",
+                "Key",
+                "Brackets",
+                "Parentheses"
+            ],
+            "answer": "Indentation"
+        },
+        {
+            "id": 2,
+            "category": "Python",
+            "question": "What is the output of type(10) in Python?",
+            "options": [
+                "float",
+                "int",
+                "number",
+                "double"
+            ],
+            "answer": "int"
+        },
+        {
+            "id": 3,
+            "category": "Python",
+            "question": "Which operator is used for exponentiation in Python?",
+            "options": [
+                "^",
+                "**",
+                "//",
+                "%"
+            ],
+            "answer": "**"
+        },
+        {
+            "id": 4,
+            "category": "Python",
+            "question": "How do you create a list in Python?",
+            "options": [
+                "{}",
+                "()",
+                "[]",
+                "<>"
+            ],
+            "answer": "[]"
+        },
+        {
+            "id": 5,
+            "category": "Python",
+            "question": "What is the correct file extension for Python files?",
+            "options": [
+                ".python",
+                ".pt",
+                ".py",
+                ".pyt"
+            ],
+            "answer": ".py"
+        },
+        {
+            "id": 6,
+            "category": "Python",
+            "question": "Which function is used to get the length of a list?",
+            "options": [
+                "len()",
+                "length()",
+                "size()",
+                "count()"
+            ],
+            "answer": "len()"
+        },
+        {
+            "id": 7,
+            "category": "Python",
+            "question": "Which keyword is used to define a function?",
+            "options": [
+                "fun",
+                "define",
+                "def",
+                "function"
+            ],
+            "answer": "def"
+        },
+        {
+            "id": 8,
+            "category": "Python",
+            "question": "How to create a comment in Python?",
+            "options": [
+                "//",
+                "/* */",
+                "#",
+                "<!-- -->"
+            ],
+            "answer": "#"
+        },
+        {
+            "id": 9,
+            "category": "Python",
+            "question": "Which method is used to remove an item from a list by index?",
+            "options": [
+                "remove()",
+                "pop()",
+                "delete()",
+                "clear()"
+            ],
+            "answer": "pop()"
+        },
+        {
+            "id": 10,
+            "category": "Python",
+            "question": "What does the 'break' statement do?",
+            "options": [
+                "Stops the loop",
+                "Continues the loop",
+                "Skips the iteration",
+                "None of the above"
+            ],
+            "answer": "Stops the loop"
+        },
+        {
+            "id": 11,
+            "category": "Java",
+            "question": "Which language is Java based on?",
+            "options": [
+                "C++",
+                "C",
+                "Python",
+                "Smalltalk"
+            ],
+            "answer": "C++"
+        },
+        {
+            "id": 12,
+            "category": "Java",
+            "question": "Which keyword is used to inherit a class in Java?",
+            "options": [
+                "implements",
+                "extends",
+                "inherits",
+                "use"
+            ],
+            "answer": "extends"
+        },
+        {
+            "id": 13,
+            "category": "Java",
+            "question": "What is the size of an int in Java?",
+            "options": [
+                "16 bits",
+                "32 bits",
+                "64 bits",
+                "8 bits"
+            ],
+            "answer": "32 bits"
+        },
+        {
+            "id": 14,
+            "category": "Java",
+            "question": "Which method is the entry point of any Java program?",
+            "options": [
+                "start()",
+                "main()",
+                "run()",
+                "init()"
+            ],
+            "answer": "main()"
+        },
+        {
+            "id": 15,
+            "category": "Java",
+            "question": "Which of these are primitive types in Java?",
+            "options": [
+                "String",
+                "Integer",
+                "int",
+                "Class"
+            ],
+            "answer": "int"
+        },
+        {
+            "id": 16,
+            "category": "Java",
+            "question": "What is used to define a constant in Java?",
+            "options": [
+                "const",
+                "final",
+                "static",
+                "fixed"
+            ],
+            "answer": "final"
+        },
+        {
+            "id": 17,
+            "category": "Java",
+            "question": "Which package contains the Scanner class?",
+            "options": [
+                "java.util",
+                "java.io",
+                "java.lang",
+                "java.net"
+            ],
+            "answer": "java.util"
+        },
+        {
+            "id": 18,
+            "category": "Java",
+            "question": "What is the parent class of all classes in Java?",
+            "options": [
+                "Main",
+                "Object",
+                "Root",
+                "Parent"
+            ],
+            "answer": "Object"
+        },
+        {
+            "id": 19,
+            "category": "Java",
+            "question": "Which keyword is used to prevent method overriding?",
+            "options": [
+                "static",
+                "final",
+                "private",
+                "protected"
+            ],
+            "answer": "final"
+        },
+        {
+            "id": 20,
+            "category": "Java",
+            "question": "Is Java a platform-dependent language?",
+            "options": [
+                "Yes",
+                "No",
+                "Depends",
+                "None"
+            ],
+            "answer": "No"
+        },
+        {
+            "id": 21,
+            "category": "Computer Network",
+            "question": "What does HTTP stand for?",
+            "options": [
+                "HyperText Transfer Protocol",
+                "High Transfer Text Protocol",
+                "Hyper Transfer Text Protocol",
+                "HyperText Transmission Protocol"
+            ],
+            "answer": "HyperText Transfer Protocol"
+        },
+        {
+            "id": 22,
+            "category": "Computer Network",
+            "question": "Which layer is responsible for routing in OSI model?",
+            "options": [
+                "Physical",
+                "Network",
+                "Data Link",
+                "Transport"
+            ],
+            "answer": "Network"
+        },
+        {
+            "id": 23,
+            "category": "Computer Network",
+            "question": "What is the standard port for HTTPS?",
+            "options": [
+                "80",
+                "21",
+                "443",
+                "22"
+            ],
+            "answer": "443"
+        },
+        {
+            "id": 24,
+            "category": "Computer Network",
+            "question": "Which device connects multiple networks?",
+            "options": [
+                "Hub",
+                "Switch",
+                "Router",
+                "Bridge"
+            ],
+            "answer": "Router"
+        },
+        {
+            "id": 25,
+            "category": "Computer Network",
+            "question": "What is the full form of IP?",
+            "options": [
+                "Internet Protocol",
+                "Intranet Protocol",
+                "Internal Protocol",
+                "Internet Path"
+            ],
+            "answer": "Internet Protocol"
+        },
+        {
+            "id": 26,
+            "category": "Computer Network",
+            "question": "Which layer handles reliable data delivery?",
+            "options": [
+                "Physical",
+                "Data Link",
+                "Transport",
+                "Session"
+            ],
+            "answer": "Transport"
+        },
+        {
+            "id": 27,
+            "category": "Computer Network",
+            "question": "What is the purpose of DNS?",
+            "options": [
+                "IP to Name",
+                "Name to IP",
+                "Routing",
+                "Switching"
+            ],
+            "answer": "Name to IP"
+        },
+        {
+            "id": 28,
+            "category": "Computer Network",
+            "question": "Which topology requires a central hub?",
+            "options": [
+                "Bus",
+                "Ring",
+                "Star",
+                "Mesh"
+            ],
+            "answer": "Star"
+        },
+        {
+            "id": 29,
+            "category": "Computer Network",
+            "question": "What is a MAC address length?",
+            "options": [
+                "32 bits",
+                "48 bits",
+                "64 bits",
+                "128 bits"
+            ],
+            "answer": "48 bits"
+        },
+        {
+            "id": 30,
+            "category": "Computer Network",
+            "question": "Which protocol is connectionless?",
+            "options": [
+                "TCP",
+                "UDP",
+                "HTTP",
+                "FTP"
+            ],
+            "answer": "UDP"
+        },
+        {
+            "id": 31,
+            "category": "C",
+            "question": "Who developed C language?",
+            "options": [
+                "Dennis Ritchie",
+                "Bjarne Stroustrup",
+                "Ken Thompson",
+                "James Gosling"
+            ],
+            "answer": "Dennis Ritchie"
+        },
+        {
+            "id": 32,
+            "category": "C",
+            "question": "Which header file is used for printf()?",
+            "options": [
+                "conio.h",
+                "stdio.h",
+                "stdlib.h",
+                "math.h"
+            ],
+            "answer": "stdio.h"
+        },
+        {
+            "id": 33,
+            "category": "C",
+            "question": "What is the size of 'char' in C?",
+            "options": [
+                "1 byte",
+                "2 bytes",
+                "4 bytes",
+                "8 bytes"
+            ],
+            "answer": "1 byte"
+        },
+        {
+            "id": 34,
+            "category": "C",
+            "question": "Which operator is used to get the address of a variable?",
+            "options": [
+                "*",
+                "&",
+                "->",
+                "."
+            ],
+            "answer": "&"
+        },
+        {
+            "id": 35,
+            "category": "C",
+            "question": "Which format specifier is used for integer?",
+            "options": [
+                "%f",
+                "%c",
+                "%d",
+                "%s"
+            ],
+            "answer": "%d"
+        },
+        {
+            "id": 36,
+            "category": "C",
+            "question": "What is an array in C?",
+            "options": [
+                "Pointer",
+                "Variable",
+                "Collection of same types",
+                "Structure"
+            ],
+            "answer": "Collection of same types"
+        },
+        {
+            "id": 37,
+            "category": "C",
+            "question": "What does NULL point to?",
+            "options": [
+                "0",
+                "1",
+                "Address of variable",
+                "None"
+            ],
+            "answer": "0"
+        },
+        {
+            "id": 38,
+            "category": "C",
+            "question": "Which keyword is used for structure?",
+            "options": [
+                "struct",
+                "class",
+                "union",
+                "typedef"
+            ],
+            "answer": "struct"
+        },
+        {
+            "id": 39,
+            "category": "C",
+            "question": "Is C a case-sensitive language?",
+            "options": [
+                "Yes",
+                "No",
+                "Depends",
+                "None"
+            ],
+            "answer": "Yes"
+        },
+        {
+            "id": 40,
+            "category": "C",
+            "question": "How to end a statement in C?",
+            "options": [
+                ":",
+                ";",
+                ".",
+                "!"
+            ],
+            "answer": ";"
+        },
+        {
+            "id": 41,
+            "category": "C++",
+            "question": "Who developed C++?",
+            "options": [
+                "Dennis Ritchie",
+                "Bjarne Stroustrup",
+                "Bill Gates",
+                "None"
+            ],
+            "answer": "Bjarne Stroustrup"
+        },
+        {
+            "id": 42,
+            "category": "C++",
+            "question": "What is the object-oriented feature in C++?",
+            "options": [
+                "Inheritance",
+                "Polymorphism",
+                "Encapsulation",
+                "All of these"
+            ],
+            "answer": "All of these"
+        },
+        {
+            "id": 43,
+            "category": "C++",
+            "question": "Which operator is used for dynamic memory allocation?",
+            "options": [
+                "malloc",
+                "new",
+                "calloc",
+                "alloc"
+            ],
+            "answer": "new"
+        },
+        {
+            "id": 44,
+            "category": "C++",
+            "question": "Which keyword is used for a class?",
+            "options": [
+                "class",
+                "struct",
+                "object",
+                "type"
+            ],
+            "answer": "class"
+        },
+        {
+            "id": 45,
+            "category": "C++",
+            "question": "What is a constructor?",
+            "options": [
+                "Function with class name",
+                "Destructor",
+                "Member function",
+                "Pointer"
+            ],
+            "answer": "Function with class name"
+        },
+        {
+            "id": 46,
+            "category": "C++",
+            "question": "Which symbol is used for scope resolution?",
+            "options": [
+                ".",
+                "->",
+                "::",
+                ":"
+            ],
+            "answer": "::"
+        },
+        {
+            "id": 47,
+            "category": "C++",
+            "question": "What is 'cin'?",
+            "options": [
+                "Function",
+                "Object",
+                "Class",
+                "Variable"
+            ],
+            "answer": "Object"
+        },
+        {
+            "id": 48,
+            "category": "C++",
+            "question": "Which header is for I/O?",
+            "options": [
+                "stdio.h",
+                "iostream",
+                "fstream",
+                "conio.h"
+            ],
+            "answer": "iostream"
+        },
+        {
+            "id": 49,
+            "category": "C++",
+            "question": "What is the default access specifier in class?",
+            "options": [
+                "public",
+                "private",
+                "protected",
+                "static"
+            ],
+            "answer": "private"
+        },
+        {
+            "id": 50,
+            "category": "C++",
+            "question": "Which is used for deletion in memory?",
+            "options": [
+                "free",
+                "delete",
+                "remove",
+                "pop"
+            ],
+            "answer": "delete"
+        },
+        {
+            "id": 51,
+            "category": "SQL",
+            "question": "What does SQL stand for?",
+            "options": [
+                "Structured Query Language",
+                "Simple Query Language",
+                "System Query Language",
+                "Standard Query Language"
+            ],
+            "answer": "Structured Query Language"
+        },
+        {
+            "id": 52,
+            "category": "SQL",
+            "question": "Which keyword is used to retrieve data?",
+            "options": [
+                "GET",
+                "SELECT",
+                "RETRIEVE",
+                "FETCH"
+            ],
+            "answer": "SELECT"
+        },
+        {
+            "id": 53,
+            "category": "SQL",
+            "question": "Which keyword is used to remove rows?",
+            "options": [
+                "DELETE",
+                "REMOVE",
+                "DROP",
+                "CLEAR"
+            ],
+            "answer": "DELETE"
+        },
+        {
+            "id": 54,
+            "category": "SQL",
+            "question": "How to filter records?",
+            "options": [
+                "FILTER",
+                "WHERE",
+                "GROUP",
+                "LIMIT"
+            ],
+            "answer": "WHERE"
+        },
+        {
+            "id": 55,
+            "category": "SQL",
+            "question": "Which operator is used for pattern matching?",
+            "options": [
+                "LIKE",
+                "IN",
+                "MATCH",
+                "SEARCH"
+            ],
+            "answer": "LIKE"
+        },
+        {
+            "id": 56,
+            "category": "SQL",
+            "question": "Which keyword joins two tables?",
+            "options": [
+                "JOIN",
+                "UNION",
+                "MERGE",
+                "COMBINE"
+            ],
+            "answer": "JOIN"
+        },
+        {
+            "id": 57,
+            "category": "SQL",
+            "question": "How to add a new record?",
+            "options": [
+                "ADD",
+                "CREATE",
+                "INSERT",
+                "APPEND"
+            ],
+            "answer": "INSERT"
+        },
+        {
+            "id": 58,
+            "category": "SQL",
+            "question": "What is a primary key?",
+            "options": [
+                "Unique ID",
+                "Foreign Key",
+                "Index",
+                "None"
+            ],
+            "answer": "Unique ID"
+        },
+        {
+            "id": 59,
+            "category": "SQL",
+            "question": "Which command removes a table?",
+            "options": [
+                "DELETE TABLE",
+                "DROP TABLE",
+                "REMOVE TABLE",
+                "CLEAR TABLE"
+            ],
+            "answer": "DROP TABLE"
+        },
+        {
+            "id": 60,
+            "category": "SQL",
+            "question": "Which keyword sorts the result?",
+            "options": [
+                "SORT BY",
+                "ORDER BY",
+                "GROUP BY",
+                "INDEX BY"
+            ],
+            "answer": "ORDER BY"
+        },
+        {
+            "id": 61,
+            "category": "DSA",
+            "question": "What structure is FIFO?",
+            "options": [
+                "Stack",
+                "Queue",
+                "Tree",
+                "Graph"
+            ],
+            "answer": "Queue"
+        },
+        {
+            "id": 62,
+            "category": "DSA",
+            "question": "What structure is LIFO?",
+            "options": [
+                "Stack",
+                "Queue",
+                "Tree",
+                "Graph"
+            ],
+            "answer": "Stack"
+        },
+        {
+            "id": 63,
+            "category": "DSA",
+            "question": "Complexity of binary search?",
+            "options": [
+                "O(n)",
+                "O(log n)",
+                "O(n^2)",
+                "O(1)"
+            ],
+            "answer": "O(log n)"
+        },
+        {
+            "id": 64,
+            "category": "DSA",
+            "question": "Which data structure uses pointers?",
+            "options": [
+                "Array",
+                "Linked List",
+                "Stack",
+                "Queue"
+            ],
+            "answer": "Linked List"
+        },
+        {
+            "id": 65,
+            "category": "DSA",
+            "question": "What is the worst case of Quicksort?",
+            "options": [
+                "O(n log n)",
+                "O(n)",
+                "O(n^2)",
+                "O(log n)"
+            ],
+            "answer": "O(n^2)"
+        },
+        {
+            "id": 66,
+            "category": "DSA",
+            "question": "Which is a non-linear data structure?",
+            "options": [
+                "Stack",
+                "Queue",
+                "Array",
+                "Tree"
+            ],
+            "answer": "Tree"
+        },
+        {
+            "id": 67,
+            "category": "DSA",
+            "question": "Root node of a tree has?",
+            "options": [
+                "Parent",
+                "No parent",
+                "Children only",
+                "None"
+            ],
+            "answer": "No parent"
+        },
+        {
+            "id": 68,
+            "category": "DSA",
+            "question": "How to represent a graph?",
+            "options": [
+                "Adjacency Matrix",
+                "List",
+                "Tree",
+                "Stack"
+            ],
+            "answer": "Adjacency Matrix"
+        },
+        {
+            "id": 69,
+            "category": "DSA",
+            "question": "What is the search time in a hash table?",
+            "options": [
+                "O(n)",
+                "O(log n)",
+                "O(1)",
+                "O(n^2)"
+            ],
+            "answer": "O(1)"
+        },
+        {
+            "id": 70,
+            "category": "DSA",
+            "question": "What is recursion?",
+            "options": [
+                "Function calling itself",
+                "Looping",
+                "Pointers",
+                "Structure"
+            ],
+            "answer": "Function calling itself"
+        }
+    ]
+}
